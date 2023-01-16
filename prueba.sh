@@ -1,0 +1,1 @@
+echo "ejecucion de prueba.sh de forma remota"
